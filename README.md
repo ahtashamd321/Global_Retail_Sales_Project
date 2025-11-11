@@ -380,9 +380,9 @@ Interested in a custom dashboard for your business? Let's discuss how I can help
 - ✅ Enable data-driven decision making
 
 📧 **Email:** [ahtashamd321@gmail.com]
-💼 **LinkedIn:** [linkedin.com/in/ahtasham-anjum] 
+💼 **LinkedIn:** [https://linkedin.com/in/ahtasham-anjum] 
 🌐 **Portfolio:** [yourportfolio.com]  
-📱 **GitHub:** [github.com/ahtashamd321]
+📱 **GitHub:** [https://github.com/ahtashamd321]
 
 ---
 
