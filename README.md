@@ -379,10 +379,10 @@ Interested in a custom dashboard for your business? Let's discuss how I can help
 - ✅ Create custom KPIs and calculations
 - ✅ Enable data-driven decision making
 
-📧 **Email:** [your.email@example.com]  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile]  
+📧 **Email:** ahtashamd321@gmail.com
+💼 **LinkedIn:** linkedin.com/in/ahtasham-anjum 
 🌐 **Portfolio:** [yourportfolio.com]  
-📱 **GitHub:** [github.com/yourprofile]
+📱 **GitHub:** github.com/ahtashamd321
 
 ---
 
@@ -442,8 +442,4 @@ Potential additions for future versions:
 ---
 
 *Transforming data chaos into business clarity, one dashboard at a time.* 📊✨
-
-## 📧 Contact
-
-[ahtashamd321@gmail.com]
 
